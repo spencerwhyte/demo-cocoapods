@@ -11,7 +11,6 @@ import SDWebImage
 import MBProgressHUD
 import RxSwift
 import SnapKit
-import BoltsSwift
 import CocoaLumberjack
 import IQKeyboardManagerSwift
 import SwiftMessages
