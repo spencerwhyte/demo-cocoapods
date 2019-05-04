@@ -17,7 +17,6 @@ target 'Demo' do
   pod 'Bolts'
   pod 'IQKeyboardManagerSwift'
   pod 'SwiftMessages'
-  pod 'CWStatusBarNotification'
   pod 'SwiftyJSON'
   pod 'Instructions'
   pod 'MGSwipeTableCell'

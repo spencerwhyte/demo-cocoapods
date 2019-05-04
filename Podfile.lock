@@ -12,7 +12,6 @@ PODS:
   - CocoaLumberjack/Default (3.4.2)
   - CocoaLumberjack/Extensions (3.4.2):
     - CocoaLumberjack/Default
-  - CWStatusBarNotification (2.3.5)
   - Hero (1.4.0)
   - Instructions (1.2.2)
   - IQKeyboardManagerSwift (6.2.0)
@@ -38,7 +37,6 @@ DEPENDENCIES:
   - Alamofire
   - Bolts
   - CocoaLumberjack
-  - CWStatusBarNotification
   - Hero
   - Instructions
   - IQKeyboardManagerSwift
@@ -59,7 +57,6 @@ SPEC REPOS:
     - Alamofire
     - Bolts
     - CocoaLumberjack
-    - CWStatusBarNotification
     - Hero
     - Instructions
     - IQKeyboardManagerSwift
@@ -80,7 +77,6 @@ SPEC CHECKSUMS:
   Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
   Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
   CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
-  CWStatusBarNotification: 3d2738b25c3207f60cc50201388d3c96182545ff
   Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
   Instructions: baff1b8ac41e195556c2b3453be1fcdd92e18612
   IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
@@ -97,6 +93,6 @@ SPEC CHECKSUMS:
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
   WatchdogInspector: 439a73b047028a6048a59e56b70fcf11045a6e13
 
-PODFILE CHECKSUM: 7f628c625dea84b7663c77fb6e2bc6c764685191
+PODFILE CHECKSUM: 89a6d9bcb3133cf500ed66ccb39105b0af33e0b8
 
 COCOAPODS: 1.6.1

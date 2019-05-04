@@ -15,7 +15,6 @@ import CocoaLumberjack
 import Bolts
 import IQKeyboardManagerSwift
 import SwiftMessages
-import CWStatusBarNotification
 import SwiftyJSON
 import Instructions
 import MGSwipeTableCell
