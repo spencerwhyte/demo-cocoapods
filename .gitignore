@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/ruby,xcode,cocoapods
-# Edit at https://www.gitignore.io/?templates=ruby,xcode,cocoapods
+# Created by https://www.gitignore.io/api/ruby,xcode,fastlane,cocoapods
+# Edit at https://www.gitignore.io/?templates=ruby,xcode,fastlane,cocoapods
 
 ### CocoaPods ###
 ## CocoaPods GitIgnore Template
@@ -9,6 +9,27 @@
 #           - Also handy if you have a large number of dependant pods
 #           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGNORE THE LOCK FILE
 Pods/
+
+### fastlane ###
+# fastlane - A streamlined workflow tool for Cocoa deployment
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+# fastlane specific
+fastlane/report.xml
+
+# deliver temporary files
+fastlane/Preview.html
+
+# snapshot generated screenshots
+fastlane/screenshots/**/*.png
+fastlane/screenshots/screenshots.html
+
+# scan temporary files
+fastlane/test_output
 
 ### Ruby ###
 *.gem
@@ -38,7 +59,6 @@ build-iPhoneOS/
 build-iPhoneSimulator/
 
 ## Specific to RubyMotion (use of CocoaPods):
-#
 # We recommend against adding the Pods directory to your .gitignore. However
 # you should judge for yourself, the pros and cons are mentioned at:
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
@@ -95,4 +115,4 @@ DerivedData/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.gitignore.io/api/ruby,xcode,cocoapods
+# End of https://www.gitignore.io/api/ruby,xcode,fastlane,cocoapods
