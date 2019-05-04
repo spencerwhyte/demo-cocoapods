@@ -1,6 +1,5 @@
 PODS:
   - Alamofire (4.8.0)
-  - Bolts-Swift (1.4.0)
   - CocoaLumberjack (3.4.2):
     - CocoaLumberjack/Default (= 3.4.2)
     - CocoaLumberjack/Extensions (= 3.4.2)
@@ -30,7 +29,6 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
-  - Bolts-Swift
   - CocoaLumberjack
   - Hero
   - Instructions
@@ -50,7 +48,6 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
-    - Bolts-Swift
     - CocoaLumberjack
     - Hero
     - Instructions
@@ -70,7 +67,6 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
-  Bolts-Swift: 650d72e8017721b1a6bbe43d542c4578f8e5ba6f
   CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
   Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
   Instructions: baff1b8ac41e195556c2b3453be1fcdd92e18612
@@ -88,6 +84,6 @@ SPEC CHECKSUMS:
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
   WatchdogInspector: 439a73b047028a6048a59e56b70fcf11045a6e13
 
-PODFILE CHECKSUM: cf6310a663d1ac49299748395ea31621a5a94e70
+PODFILE CHECKSUM: 22f4bbf4b211ac2f834ceff8cf96166cce052539
 
 COCOAPODS: 1.6.1
