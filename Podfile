@@ -15,7 +15,6 @@ target 'Demo' do
   pod 'SnapKit'
   pod 'CocoaLumberjack'
   pod 'Bolts'
-  pod 'Fabric'
   pod 'IQKeyboardManagerSwift'
   pod 'Crashlytics'
   pod 'SwiftMessages'

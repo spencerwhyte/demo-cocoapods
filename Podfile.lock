@@ -120,7 +120,6 @@ DEPENDENCIES:
   - CocoaLumberjack
   - Crashlytics
   - CWStatusBarNotification
-  - Fabric
   - FBSDKCoreKit
   - FBSDKLoginKit
   - FBSDKShareKit
@@ -222,6 +221,6 @@ SPEC CHECKSUMS:
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
   WatchdogInspector: 439a73b047028a6048a59e56b70fcf11045a6e13
 
-PODFILE CHECKSUM: 4fb4b272db028caa8711760c05c6fe718d899f7b
+PODFILE CHECKSUM: 814741a7a84aa1998c1e568c4db8b36ec2595a83
 
 COCOAPODS: 1.6.1
