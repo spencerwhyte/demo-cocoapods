@@ -14,7 +14,7 @@ target 'Demo' do
   pod 'RxSwift'
   pod 'SnapKit'
   pod 'CocoaLumberjack'
-  pod 'Bolts'
+  pod 'Bolts-Swift'
   pod 'IQKeyboardManagerSwift'
   pod 'SwiftMessages'
   pod 'SwiftyJSON'
