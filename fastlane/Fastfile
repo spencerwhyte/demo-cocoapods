@@ -24,7 +24,7 @@ platform :ios do
       workspace: "Demo.xcworkspace",
       scheme: "Demo",
       configuration: "Debug",
-      archive: true,
+      build: true,
       destination: "generic/platform=iOS",
       build_settings: {
         "CODE_SIGNING_ALLOWED" => "NO",
